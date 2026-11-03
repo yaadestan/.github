@@ -43,7 +43,7 @@
 | هوش مصنوعی | [هم‌هوش](https://yaadestan.com/courses/hamhoosh?utm_source=github&utm_medium=profile) | هوش مصنوعی و پرامپت‌نویسی به زبان ساده | [hamhoosh-code](https://github.com/yaadestan/hamhoosh-code) |
 | یادگیری عمیق | [ژرفا](https://yaadestan.com/courses/zharfa?utm_source=github&utm_medium=profile) | یادگیری عمیق با PyTorch و مهندسی LLM | [zharfa-code](https://github.com/yaadestan/zharfa-code) |
 | MLOps | [داربست](https://yaadestan.com/courses/darbast?utm_source=github&utm_medium=profile) | استقرار، پایش و بازآموزی مدل‌های یادگیری ماشین | [darbast-code](https://github.com/yaadestan/darbast-code) |
-| ریاضی | [ریشه](https://yaadestan.com/courses/risheh?utm_source=github&utm_medium=profile) | ریاضی از چهار عمل تا ریاضیِ هوش مصنوعی | [risheh-code](https://github.com/yaadestan/risheh-code) |
+| ریاضی | [ریشه](https://yaadestan.com/courses/risheh?utm_source=github&utm_medium=profile) | ریاضی از چهار عمل تا ریاضیِ هوش مصنوعی | — |
 | چاپ سه‌بعدی | [لایه](https://yaadestan.com/courses/laye?utm_source=github&utm_medium=profile) | چاپ سه‌بعدی FDM با Cura، PrusaSlicer، OrcaSlicer و Bambu Studio | [laye-code](https://github.com/yaadestan/laye-code) |
 | فیگور | [از فایل تا فیگور](https://yaadestan.com/courses/figur?utm_source=github&utm_medium=profile) | ساخت، پرداخت و رنگ‌آمیزی فیگور | [figur-code](https://github.com/yaadestan/figur-code) |
 
