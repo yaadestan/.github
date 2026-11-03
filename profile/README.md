@@ -28,24 +28,24 @@
 
 ## این‌جا چه پیدا می‌کنی
 
-کدِ خودآموزهای یادستان: هر فصلی که کد دارد، همین‌جا کدِ کامل و قابل‌اجرایش هست، با پیوند به همان فصل در سایت که توضیح می‌دهد هر خط چرا آن‌جاست. کد را بردار، اجرا کن، عوضش کن، خرابش کن و دوباره درستش کن؛ یادگرفتن همین است.
+کدِ خودآموزهای یادستان: هر فصلی که کد دارد، در مخزن همان خودآموز (ستون «کد» در جدول پایین) کدِ کامل و قابل‌اجرایش هست، با پیوند به همان فصل در سایت که توضیح می‌دهد هر خط چرا آن‌جاست. کد را بردار، اجرا کن، عوضش کن، خرابش کن و دوباره درستش کن؛ یادگرفتن همین است.
 
 ## خودآموزها
 
-| حوزه | خودآموز | دربارهٔ چه |
-|---|---|---|
-| رباتیک | [آیرو](https://yaadestan.com/courses/airo?utm_source=github&utm_medium=profile) | رباتیک با ESP32 و MicroPython، از اولین LED تا ربات متصل به هوش مصنوعی |
-| الکترونیک | [جریان](https://yaadestan.com/courses/jaryan?utm_source=github&utm_medium=profile) | الکترونیک از صفر، هر مدار در شبیه‌ساز داخل مرورگر |
-| طراحی وب | [تاروپود](https://yaadestan.com/courses/taropood?utm_source=github&utm_medium=profile) | HTML و CSS از صفر تا ساخت سایت |
-| برنامه‌نویسی | [سرنخ](https://yaadestan.com/courses/sarnakh?utm_source=github&utm_medium=profile) | پایتون برای هوش مصنوعی، در Google Colab |
-| الگوریتم | [بنیاد](https://yaadestan.com/courses/bonyad?utm_source=github&utm_medium=profile) | ساختمان داده و الگوریتم، با اندازه‌گیری واقعی |
-| داده | [آوند](https://yaadestan.com/courses/avand?utm_source=github&utm_medium=profile) | SQL، مدل‌سازی و تحلیل داده |
-| هوش مصنوعی | [هم‌هوش](https://yaadestan.com/courses/hamhoosh?utm_source=github&utm_medium=profile) | هوش مصنوعی و پرامپت‌نویسی به زبان ساده |
-| یادگیری عمیق | [ژرفا](https://yaadestan.com/courses/zharfa?utm_source=github&utm_medium=profile) | یادگیری عمیق با PyTorch و مهندسی LLM |
-| MLOps | [داربست](https://yaadestan.com/courses/darbast?utm_source=github&utm_medium=profile) | استقرار، پایش و بازآموزی مدل‌های یادگیری ماشین |
-| ریاضی | [ریشه](https://yaadestan.com/courses/risheh?utm_source=github&utm_medium=profile) | ریاضی از چهار عمل تا ریاضیِ هوش مصنوعی |
-| چاپ سه‌بعدی | [لایه](https://yaadestan.com/courses/laye?utm_source=github&utm_medium=profile) | چاپ سه‌بعدی FDM با Cura، PrusaSlicer، OrcaSlicer و Bambu Studio |
-| فیگور | [از فایل تا فیگور](https://yaadestan.com/courses/figur?utm_source=github&utm_medium=profile) | ساخت، پرداخت و رنگ‌آمیزی فیگور |
+| حوزه | خودآموز | دربارهٔ چه | کد |
+|---|---|---|---|
+| رباتیک | [آیرو](https://yaadestan.com/courses/airo?utm_source=github&utm_medium=profile) | رباتیک با ESP32 و MicroPython، از اولین LED تا ربات متصل به هوش مصنوعی | [airo-code](https://github.com/yaadestan/airo-code) |
+| الکترونیک | [جریان](https://yaadestan.com/courses/jaryan?utm_source=github&utm_medium=profile) | الکترونیک از صفر، هر مدار در شبیه‌ساز داخل مرورگر | [jaryan-code](https://github.com/yaadestan/jaryan-code) |
+| طراحی وب | [تاروپود](https://yaadestan.com/courses/taropood?utm_source=github&utm_medium=profile) | HTML و CSS از صفر تا ساخت سایت | [taropood-code](https://github.com/yaadestan/taropood-code) |
+| برنامه‌نویسی | [سرنخ](https://yaadestan.com/courses/sarnakh?utm_source=github&utm_medium=profile) | پایتون برای هوش مصنوعی، در Google Colab | [sarnakh-code](https://github.com/yaadestan/sarnakh-code) |
+| الگوریتم | [بنیاد](https://yaadestan.com/courses/bonyad?utm_source=github&utm_medium=profile) | ساختمان داده و الگوریتم، با اندازه‌گیری واقعی | [bonyad-code](https://github.com/yaadestan/bonyad-code) |
+| داده | [آوند](https://yaadestan.com/courses/avand?utm_source=github&utm_medium=profile) | SQL، مدل‌سازی و تحلیل داده | [avand-code](https://github.com/yaadestan/avand-code) |
+| هوش مصنوعی | [هم‌هوش](https://yaadestan.com/courses/hamhoosh?utm_source=github&utm_medium=profile) | هوش مصنوعی و پرامپت‌نویسی به زبان ساده | [hamhoosh-code](https://github.com/yaadestan/hamhoosh-code) |
+| یادگیری عمیق | [ژرفا](https://yaadestan.com/courses/zharfa?utm_source=github&utm_medium=profile) | یادگیری عمیق با PyTorch و مهندسی LLM | [zharfa-code](https://github.com/yaadestan/zharfa-code) |
+| MLOps | [داربست](https://yaadestan.com/courses/darbast?utm_source=github&utm_medium=profile) | استقرار، پایش و بازآموزی مدل‌های یادگیری ماشین | [darbast-code](https://github.com/yaadestan/darbast-code) |
+| ریاضی | [ریشه](https://yaadestan.com/courses/risheh?utm_source=github&utm_medium=profile) | ریاضی از چهار عمل تا ریاضیِ هوش مصنوعی | [risheh-code](https://github.com/yaadestan/risheh-code) |
+| چاپ سه‌بعدی | [لایه](https://yaadestan.com/courses/laye?utm_source=github&utm_medium=profile) | چاپ سه‌بعدی FDM با Cura، PrusaSlicer، OrcaSlicer و Bambu Studio | [laye-code](https://github.com/yaadestan/laye-code) |
+| فیگور | [از فایل تا فیگور](https://yaadestan.com/courses/figur?utm_source=github&utm_medium=profile) | ساخت، پرداخت و رنگ‌آمیزی فیگور | [figur-code](https://github.com/yaadestan/figur-code) |
 
 ## چیزهایی که فقط این‌جا هست
 
